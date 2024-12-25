@@ -46,7 +46,7 @@ We’d love to hear from you! Join our Discord community to discuss projects, as
 ### 🛠️ Explore More Awesome Projects  
 
 #### [Loadgen](https://github.com/infinilabs/loadgen)  
-INFINI Loadgen for API Benchmark & API Testing.  
+💣 INFINI Loadgen for API Benchmarking & Testing – Powerful, lightweight, and easy to use.
 **Language**: Go | **License**: AGPL-v3
 
 #### [Analysis-ik](https://github.com/infinilabs/analysis-ik)  
