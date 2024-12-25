@@ -17,9 +17,9 @@ INFINI Labs is a cutting-edge technology company focused on building next-genera
 🥥 Coco AI Server - Search, Connect, Collaborate, AI-powered enterprise search, all in one space.  
 **Language**: Go、TypeScript | **License**: MIT
 
-#### Pizza (Coming soon)
-🍕 A Distributed Real-Time Search & AI-Native Innovation Engine.
-**Language**: Rust | **License**: AGPL-v3
+### [Pizza](https://pizza.rs/docs/)
+🍕 A Distributed Real-Time Search & AI-Native Innovation Engine, designed for mutable data with in-place partial updates.
+**Language**: Rust | **License**: AGPL-v3 
 
 ### [Pizza-searchbox](https://github.com/infinilabs/pizza-searchbox)  
 📝 A fast and intuitive search UI component working with Pizza WASM, designed to deliver instant and seamless search experiences.  
@@ -49,15 +49,15 @@ We’d love to hear from you! Join our Discord community to discuss projects, as
 INFINI Loadgen for API Benchmark & API Testing.  
 **Language**: Go | **License**: AGPL-v3
 
-### [Analysis-ik](https://github.com/infinilabs/analysis-ik)  
+#### [Analysis-ik](https://github.com/infinilabs/analysis-ik)  
 🚌 The IK Analysis plugin integrates the Lucene IK analyzer into Elasticsearch and OpenSearch, supporting customized dictionaries.  
 **Language**: Java | **License**: Apache-2.0 |   
 
-### [Analysis-pinyin](https://github.com/infinilabs/analysis-pinyin)  
+#### [Analysis-pinyin](https://github.com/infinilabs/analysis-pinyin)  
 🛵 The Pinyin Analysis plugin is used for converting Chinese characters to Pinyin, enabling advanced search and analysis features.  
 **Language**: Java | **License**: Apache-2.0 | 
 
-### [Analysis-stconvert](https://github.com/infinilabs/analysis-stconvert)  
+#### [Analysis-stconvert](https://github.com/infinilabs/analysis-stconvert)  
 🚲 The STConvert plugin enables seamless conversion between traditional and simplified Chinese characters for better text processing.  
 **Language**: Java | **License**: Apache-2.0  
 
