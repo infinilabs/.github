@@ -22,7 +22,7 @@ INFINI Labs is a cutting-edge technology company focused on building next-genera
 **Language**: Rust | **License**: AGPL-v3 
 
 ### [Pizza-searchbox](https://github.com/infinilabs/pizza-searchbox)  
-📝 A fast and intuitive search UI component working with Pizza WASM, designed to deliver instant and seamless search experiences.  
+🎁 A fast and intuitive search UI component working with Pizza WASM, designed to deliver instant and seamless search experiences.  
 **Language**: Go、TypeScript  | **License**: MIT  
 
 ### [Gateway](https://github.com/infinilabs/gateway)  
