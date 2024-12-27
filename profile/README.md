@@ -33,7 +33,7 @@ INFINI Labs is a cutting-edge technology company focused on building next-genera
 🏵️ A lightweight multi-cluster, cross-version unified Elasticsearch / OpenSearch / Easysearch governance platform.  
 **Language**: Go、JavaScript | **License**: AGPL-v3 | Size: ~16MB
 
-#### [Loadgen](https://github.com/infinilabs/loadgen)  
+### [Loadgen](https://github.com/infinilabs/loadgen)  
 💣 INFINI Loadgen for API Benchmarking & Testing – Powerful, lightweight, and easy to use.
 **Language**: Go | **License**: AGPL-v3 | Size: ~4MB
 
