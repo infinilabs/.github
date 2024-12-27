@@ -15,24 +15,30 @@ INFINI Labs is a cutting-edge technology company focused on building next-genera
 
 ### [Coco](https://github.com/infinilabs/coco-app)  
 🥥 Coco AI - Search, Connect, Collaborate, AI-powered enterprise search, all in one space.  
-**Language**: Go、TypeScript | **License**: MIT
+**Language**: Go、TypeScript | **License**: MIT | Size: ~11MB
 
 ### [Pizza](https://pizza.rs/docs/)
 🍕 A Distributed Real-Time Search & AI-Native Innovation Engine, designed for mutable data with in-place partial updates.
-**Language**: Rust | **License**: AGPL-v3 
+**Language**: Rust | **License**: AGPL-v3 | Size: ~15MB
 
 ### [Pizza-searchbox](https://github.com/infinilabs/pizza-searchbox)  
-🎁 A fast and intuitive search UI component working with Pizza WASM, designed to deliver instant and seamless search experiences.  
-**Language**: Go、TypeScript  | **License**: MIT  
+🎁 A fast and intuitive search UI component working with [Pizza WASM](https://github.com/infinilabs/pizza-wasm), designed to deliver instant and seamless search experiences.  
+**Language**: Go、TypeScript  | **License**: MIT | Size: ~300KB 
 
 ### [Gateway](https://github.com/infinilabs/gateway)  
 🚀 A High-performance Gateway Designed for Search Scenarios. Good friend of Elasticsearch / OpenSearch / Easysearch.  
-**Language**: Go | **License**: AGPL-v3
+**Language**: Go | **License**: AGPL-v3 | Size: ~9MB
 
 ### [Console](https://github.com/infinilabs/console)  
 🏵️ A lightweight multi-cluster, cross-version unified Elasticsearch / OpenSearch / Easysearch governance platform.  
-**Language**: Go、JavaScript | **License**: AGPL-v3
+**Language**: Go、JavaScript | **License**: AGPL-v3 | Size: ~16MB
 
+#### [Loadgen](https://github.com/infinilabs/loadgen)  
+💣 INFINI Loadgen for API Benchmarking & Testing – Powerful, lightweight, and easy to use.
+**Language**: Go | **License**: AGPL-v3 | Size: ~4MB
+
+
+And much more! Explore all our open-source contributions at [INFINI Labs GitHub](https://github.com/infinilabs).  
 
 ---
 
@@ -43,27 +49,5 @@ We’d love to hear from you! Join our Discord community to discuss projects, as
 
 ---
 
-### 🛠️ Explore More Awesome Projects  
-
-#### [Loadgen](https://github.com/infinilabs/loadgen)  
-💣 INFINI Loadgen for API Benchmarking & Testing – Powerful, lightweight, and easy to use.
-**Language**: Go | **License**: AGPL-v3
-
-#### [Analysis-ik](https://github.com/infinilabs/analysis-ik)  
-🚌 The IK Analysis plugin integrates the Lucene IK analyzer into Elasticsearch and OpenSearch, supporting customized dictionaries.  
-**Language**: Java | **License**: Apache-2.0 |   
-
-#### [Analysis-pinyin](https://github.com/infinilabs/analysis-pinyin)  
-🛵 The Pinyin Analysis plugin is used for converting Chinese characters to Pinyin, enabling advanced search and analysis features.  
-**Language**: Java | **License**: Apache-2.0 | 
-
-#### [Analysis-stconvert](https://github.com/infinilabs/analysis-stconvert)  
-🚲 The STConvert plugin enables seamless conversion between traditional and simplified Chinese characters for better text processing.  
-**Language**: Java | **License**: Apache-2.0  
-
-
-And much more! Explore all our open-source contributions at [INFINI Labs GitHub](https://github.com/infinilabs).  
-
----  
 
 ❤️ **At INFINI Labs, we’re passionate about building search tools that empower developers and teams worldwide. Thank you for being a part of our journey!**  
