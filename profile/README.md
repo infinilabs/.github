@@ -15,15 +15,15 @@ INFINI Labs is a cutting-edge technology company focused on building next-genera
 
 ### [Coco](https://github.com/infinilabs/coco-app)  
 🥥 Coco AI - Search, Connect, Collaborate, AI-powered enterprise search, all in one space.  
-**Language**: Go、TypeScript | **License**: MIT | Size: ~11MB
+**Language**: Rust、Go、TypeScript | **License**: MIT | Size: ~11MB
 
 ### [Pizza](https://pizza.rs/docs/)
-🍕 A Distributed Real-Time Search & AI-Native Innovation Engine, designed for mutable data with in-place partial updates.
+🍕 A Distributed Real-Time Search & AI-Native Innovation Engine, designed for mutable data with in-place partial updates.  
 **Language**: Rust | **License**: AGPL-v3 | Size: ~15MB
 
 ### [Pizza-searchbox](https://github.com/infinilabs/pizza-searchbox)  
 🎁 A fast and intuitive search UI component working with [Pizza WASM](https://github.com/infinilabs/pizza-wasm), designed to deliver instant and seamless search experiences.  
-**Language**: Go、TypeScript  | **License**: MIT | Size: ~300KB 
+**Language**: WebAssembly、TypeScript  | **License**: MIT | Size: ~300KB 
 
 ### [Gateway](https://github.com/infinilabs/gateway)  
 🚀 A High-performance Gateway Designed for Search Scenarios. Good friend of Elasticsearch / OpenSearch / Easysearch.  
@@ -34,7 +34,7 @@ INFINI Labs is a cutting-edge technology company focused on building next-genera
 **Language**: Go、JavaScript | **License**: AGPL-v3 | Size: ~16MB
 
 ### [Loadgen](https://github.com/infinilabs/loadgen)  
-💣 INFINI Loadgen for API Benchmarking & Testing – Powerful, lightweight, and easy to use.
+💣 A http load generator and testing suite,  great for API benchmarking & testing – powerful, lightweight, and easy to use.  
 **Language**: Go | **License**: AGPL-v3 | Size: ~4MB
 
 
