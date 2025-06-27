@@ -13,7 +13,7 @@ INFINI Labs is a cutting-edge technology company focused on building next-genera
 
 ## 🔥 Featured Open-Source Projects  
 
-### [Coco](https://github.com/infinilabs/coco-app)  
+### [Coco](https://coco.rs) 
 🥥 Coco AI - Search, Connect, Collaborate, AI-powered enterprise search, all in one space.  
 **Language**: Rust、Go、TypeScript | **License**: MIT | Size: ~11MB
 
