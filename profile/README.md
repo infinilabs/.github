@@ -1,6 +1,6 @@
 # Welcome to INFINI Labs!  
 
-![INFINI Labs](https://docs.infinilabs.com/assets/img/home/bg.svg)  
+[![INFINI Labs](https://docs.infinilabs.com/assets/img/home/bg.svg)](https://infinilabs.com/)  
 
 INFINI Labs is a cutting-edge technology company focused on building next-generation real-time search engines, distributed systems, and AI-powered solutions.  
 
