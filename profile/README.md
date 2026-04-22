@@ -29,13 +29,19 @@ INFINI Labs is a cutting-edge technology company focused on building next-genera
 🚀 A High-performance Gateway Designed for Search Scenarios. Good friend of Elasticsearch / OpenSearch / Easysearch.  
 **Language**: Go | **License**: AGPL-v3 | Size: ~9MB
 
+```curl -sSL http://get.infini.cloud | bash -s -- -p gateway```
+
 ### [Console](https://github.com/infinilabs/console)  
 🏵️ A lightweight multi-cluster, cross-version unified Elasticsearch / OpenSearch / Easysearch governance platform.  
 **Language**: Go、JavaScript | **License**: AGPL-v3 | Size: ~16MB
 
+```curl -sSL http://get.infini.cloud | bash -s -- -p console```
+
 ### [Loadgen](https://github.com/infinilabs/loadgen)  
 💣 A http load generator and testing suite,  great for API benchmarking & testing – powerful, lightweight, and easy to use.  
 **Language**: Go | **License**: AGPL-v3 | Size: ~4MB
+
+```curl -sSL http://get.infini.cloud | bash -s -- -p loadgen```
 
 
 And much more! Explore all our open-source contributions at [INFINI Labs GitHub](https://github.com/infinilabs).  
